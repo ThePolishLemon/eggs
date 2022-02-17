@@ -2,7 +2,7 @@
     "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
     "meta": {
         "version": "PTDL_v1",
-        "update_url": null
+        "update_url": null,
     },
     "exported_at": "2022-01-11T10:14:56-05:00",
     "name": "LinuxRDP",
