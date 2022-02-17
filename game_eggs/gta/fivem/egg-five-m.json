@@ -26,8 +26,5 @@
             "container": "debian:buster-slim",
             "entrypoint": "bash"
         }
-    },
-    "variables": [
- 
-            
+    },            
 }
