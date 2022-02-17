@@ -18,13 +18,13 @@
         "files": "",
         "startup": "{\r\n    \"done\": \"succeeded. Welcome!\"\r\n}",
         "logs": "{\r\n    \"custom\": true,\r\n    \"location\": \"logs\/latest.log\"\r\n}",
-        "stop": "quit"
+        "stop": "shutdown",
     },
     "scripts": {
         "installation": {
             "script": "wget https://raw.githubusercontent.com/Har-Kuun/OneClickDesktop/master/OneClickDesktop.sh && sudo bash OneClickDesktop.sh",
             "container": "debian:buster-slim",
-            "entrypoint": "bash"
+            "entrypoint": "bash",
         }
     },            
 }
